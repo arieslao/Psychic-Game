@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/*!
+ * Bootstrap v3.3.5 (http://getbootstrap.com)
+ * Copyright 2011-2015 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; 
+  
+
+}
+
+body {
+  margin: auto; 
+background-image: url(https://www.biography.com/.image/c_limit%2Ccs_srgb%2Cq_80%2Cw_607/MTE4MDAzNDEwOTEyMDUyNzUw/image-title2.webp);
+
+}
+
+h2, p {
+    font-family: 'Times New Roman', Times, serif; 
+    text-align: center;
+    background-color: rgb(246, 247, 248); align-content: center;
+    width: 400px;
+    opacity: 0.7;
+    margin: auto;
+    float: none;
+    
+}
+
+#scoreboard {
+    text-align: center;
+    
+/* Background size, color, position */
+    background-color: rgb(246, 247, 248);
+    opacity: 0.7;
+    width: 400px;
+    height: auto;
+    position: relative;
+    margin: auto;
+    float: none;
+    
+    
+}
